@@ -8,6 +8,7 @@ body{
 
 header{
     margin: 0 auto;
+    margin-bottom: 20px;
     letter-spacing: 10px;
     font-family: 'Satisfy', cursive;
     display: flex;
