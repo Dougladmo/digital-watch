@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um relógio digital com imagens dinâmica que mudam de acordo com o horário do dia.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://dougladmo.github.io/digital-watch/)
